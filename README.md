@@ -22,6 +22,7 @@ In this project, I created powerful visual representations of a real-world Vehic
 
 🔍 Key Outcome:
 The visualizations clearly revealed:
+
 ✅ Strong negative correlation between mileage and vehicle price
 
 ✅ Petrol and Diesel dominate the vehicle market by fuel type
