@@ -30,3 +30,8 @@ The visualizations clearly revealed:
 ✅ Newer vehicles tend to have significantly higher price values
 
 ✅ Several high-mileage vehicles were identified as major outliers in pricing
+
+Top 10 Brands
+
+<img width="992" height="587" alt="image" src="https://github.com/user-attachments/assets/1564ac75-96d0-41ba-8965-88f5f57309d3" />
+
